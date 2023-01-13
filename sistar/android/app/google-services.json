@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "8707527880",
+    "project_id": "sistar-ae654",
+    "storage_bucket": "sistar-ae654.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8707527880:android:391fe5862e82437910c1fd",
+        "android_client_info": {
+          "package_name": "com.example.sistar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8707527880-21gu03me9qtsck62ss4r82uqka4frho2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-ES4r3EXZbED0FyrsxGp71lHiyWKWK_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8707527880-21gu03me9qtsck62ss4r82uqka4frho2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
